@@ -62,7 +62,7 @@ GEM
     rspec-support (3.7.1)
     semver2 (3.4.2)
     thread_safe (0.3.6)
-    yard (0.9.13)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
