@@ -48,7 +48,7 @@ GEM
     racc (1.5.2)
     rack (2.2.3)
     rake (13.0.3)
-    rdoc (6.0.4)
+    rdoc (6.3.2)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
